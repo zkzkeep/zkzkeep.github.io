@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>修改hexo中文章头设置后hexo n报错解决办法</title>
+      <link href="/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/"/>
+      <url>/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/</url>
+      
+        <content type="html"><![CDATA[<p>这几天利用Github和Hexo搭建个人网页博客，网上这样的教程一堆，但对于我这个小白而言很多看起来很清晰的教程其实里面坑很多，下面就将其中困扰我较长时间的一个问题写出来，以供大家参考。</p><p>我是主要参考<a href="https://godweiyang.com/2018/04/13/hexo-blog/%E8%BF%99%E4%BD%8D%E5%A4%A7%E4%BD%AC%E7%9A%84%E6%95%99%E7%A8%8B%E6%90%AD%E5%BB%BA%E7%9A%84%EF%BC%8C%E5%9C%A8%E7%BD%91%E9%A1%B5%E5%88%9D%E6%AD%A5%E6%90%AD%E5%BB%BA%E5%A5%BD%E5%90%8E%EF%BC%8C%E6%88%91%E6%8C%89%E7%85%A7guoyang%E5%A4%A7%E4%BD%AC%E7%9A%84%E6%95%99%E7%A8%8B%EF%BC%8C%E5%AF%B9%E6%96%87%E7%AB%A0%E5%A4%B4%E8%BF%9B%E8%A1%8C%E8%AE%BE%E7%BD%AE%EF%BC%8C%E5%B0%86%60/scaffolds/post.md%60%E4%BF%AE%E6%94%B9%E4%B8%BA%E5%A6%82%E4%B8%8B%E4%BB%A3%E7%A0%81%EF%BC%9A">https://godweiyang.com/2018/04/13/hexo-blog/这位大佬的教程搭建的，在网页初步搭建好后，我按照guoyang大佬的教程，对文章头进行设置，将`/scaffolds/post.md`修改为如下代码：</a></p><p><img src="/./../images/%E4%BF%AE%E6%94%B9hexo%E4%B8%AD%E6%96%87%E7%AB%A0%E5%A4%B4%E8%AE%BE%E7%BD%AE%E5%90%8Ehexo-n%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230309140406.png" alt="微信图片_20230309140406"></p><p>结果将原文件进行如上修改后，在git bash里面就频繁报错，</p><p><img src="/./../images/%E4%BF%AE%E6%94%B9hexo%E4%B8%AD%E6%96%87%E7%AB%A0%E5%A4%B4%E8%AE%BE%E7%BD%AE%E5%90%8Ehexo-n%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/code.png" alt="code"></p><p>将故障信息搜索发现，80%以上的都是说没有空格，应添加空格，我之前也遇到过没有添加空格会报：YAMLException: end of the stream or a document separator is expected (2:6)故障</p><p>但这个问题，我不论怎样的添加空格都没有用，为此，我郁闷了好久。</p><p>后来我想着重新下载matery主题，将原文件和我的文件进行比对看看，终于发现了原来原文件是没有上下三个“—”的，将其去掉后，故障消失，问题得以解决。</p><p><img src="/./../images/%E4%BF%AE%E6%94%B9hexo%E4%B8%AD%E6%96%87%E7%AB%A0%E5%A4%B4%E8%AE%BE%E7%BD%AE%E5%90%8Ehexo-n%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/code1.png" alt="code1"></p><p>我目前就是按照如上设置的，目前暂未发现其他问题，希望对后来者有帮助！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 报错 </tag>
+            
+            <tag> 文章新建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/03/09/hello-world/"/>
       <url>/2023/03/09/hello-world/</url>
