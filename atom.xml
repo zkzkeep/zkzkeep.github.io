@@ -3,11 +3,11 @@
   <title>Leesy&#39;s Blog</title>
   
   <subtitle>生命不歇,奋斗不止!</subtitle>
-  <link href="https://zkzkeep.github.io/atom.xml" rel="self"/>
+  <link href="https://leesy.top/atom.xml" rel="self"/>
   
-  <link href="https://zkzkeep.github.io/"/>
+  <link href="https://leesy.top/"/>
   <updated>2023-03-10T05:40:54.162Z</updated>
-  <id>https://zkzkeep.github.io/</id>
+  <id>https://leesy.top/</id>
   
   <author>
     <name>Shuangjie</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>500kV施恩I线CSC-103A第一套线路保护装置运行提示卡</title>
-    <link href="https://zkzkeep.github.io/2023/03/10/500kv-shi-en-i-xian-csc-103a-di-yi-tao-xian-lu-bao-hu-zhuang-zhi-yun-xing-ti-shi-qia/"/>
-    <id>https://zkzkeep.github.io/2023/03/10/500kv-shi-en-i-xian-csc-103a-di-yi-tao-xian-lu-bao-hu-zhuang-zhi-yun-xing-ti-shi-qia/</id>
+    <link href="https://leesy.top/2023/03/10/500kv-shi-en-i-xian-csc-103a-di-yi-tao-xian-lu-bao-hu-zhuang-zhi-yun-xing-ti-shi-qia/"/>
+    <id>https://leesy.top/2023/03/10/500kv-shi-en-i-xian-csc-103a-di-yi-tao-xian-lu-bao-hu-zhuang-zhi-yun-xing-ti-shi-qia/</id>
     <published>2023-03-10T04:25:48.000Z</published>
     <updated>2023-03-10T05:40:54.162Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="电网运行" scheme="https://zkzkeep.github.io/categories/%E7%94%B5%E7%BD%91%E8%BF%90%E8%A1%8C/"/>
+    <category term="电网运行" scheme="https://leesy.top/categories/%E7%94%B5%E7%BD%91%E8%BF%90%E8%A1%8C/"/>
     
     
-    <category term="保护提示卡" scheme="https://zkzkeep.github.io/tags/%E4%BF%9D%E6%8A%A4%E6%8F%90%E7%A4%BA%E5%8D%A1/"/>
+    <category term="保护提示卡" scheme="https://leesy.top/tags/%E4%BF%9D%E6%8A%A4%E6%8F%90%E7%A4%BA%E5%8D%A1/"/>
     
-    <category term="继电保护" scheme="https://zkzkeep.github.io/tags/%E7%BB%A7%E7%94%B5%E4%BF%9D%E6%8A%A4/"/>
+    <category term="继电保护" scheme="https://leesy.top/tags/%E7%BB%A7%E7%94%B5%E4%BF%9D%E6%8A%A4/"/>
     
   </entry>
   
   <entry>
     <title>修改hexo中文章头设置后hexo n报错解决办法</title>
-    <link href="https://zkzkeep.github.io/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/"/>
-    <id>https://zkzkeep.github.io/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/</id>
+    <link href="https://leesy.top/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/"/>
+    <id>https://leesy.top/2023/03/09/xiu-gai-hexo-zhong-wen-zhang-tou-she-zhi-hou-hexo-n-bao-cuo-jie-jue-ban-fa/</id>
     <published>2023-03-09T03:54:25.000Z</published>
     <updated>2023-03-09T06:39:30.970Z</updated>
     
@@ -62,21 +62,21 @@
     
     
     
-    <category term="hexo" scheme="https://zkzkeep.github.io/categories/hexo/"/>
+    <category term="hexo" scheme="https://leesy.top/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://zkzkeep.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://leesy.top/tags/hexo/"/>
     
-    <category term="报错" scheme="https://zkzkeep.github.io/tags/%E6%8A%A5%E9%94%99/"/>
+    <category term="报错" scheme="https://leesy.top/tags/%E6%8A%A5%E9%94%99/"/>
     
-    <category term="文章新建" scheme="https://zkzkeep.github.io/tags/%E6%96%87%E7%AB%A0%E6%96%B0%E5%BB%BA/"/>
+    <category term="文章新建" scheme="https://leesy.top/tags/%E6%96%87%E7%AB%A0%E6%96%B0%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zkzkeep.github.io/2023/03/09/hello-world/"/>
-    <id>https://zkzkeep.github.io/2023/03/09/hello-world/</id>
+    <link href="https://leesy.top/2023/03/09/hello-world/"/>
+    <id>https://leesy.top/2023/03/09/hello-world/</id>
     <published>2023-03-09T00:30:13.346Z</published>
     <updated>2023-03-07T09:32:32.224Z</updated>
     
@@ -96,8 +96,8 @@
   
   <entry>
     <title>《飘》</title>
-    <link href="https://zkzkeep.github.io/2023/03/08/piao/"/>
-    <id>https://zkzkeep.github.io/2023/03/08/piao/</id>
+    <link href="https://leesy.top/2023/03/08/piao/"/>
+    <id>https://leesy.top/2023/03/08/piao/</id>
     <published>2023-03-08T06:05:31.000Z</published>
     <updated>2023-03-08T06:08:32.482Z</updated>
     
@@ -112,21 +112,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="斯嘉丽" scheme="https://zkzkeep.github.io/tags/%E6%96%AF%E5%98%89%E4%B8%BD/"/>
+    <category term="斯嘉丽" scheme="https://leesy.top/tags/%E6%96%AF%E5%98%89%E4%B8%BD/"/>
     
-    <category term="爱情" scheme="https://zkzkeep.github.io/tags/%E7%88%B1%E6%83%85/"/>
+    <category term="爱情" scheme="https://leesy.top/tags/%E7%88%B1%E6%83%85/"/>
     
-    <category term="艾希礼" scheme="https://zkzkeep.github.io/tags/%E8%89%BE%E5%B8%8C%E7%A4%BC/"/>
+    <category term="艾希礼" scheme="https://leesy.top/tags/%E8%89%BE%E5%B8%8C%E7%A4%BC/"/>
     
   </entry>
   
   <entry>
     <title>我的卑微与伟大</title>
-    <link href="https://zkzkeep.github.io/2023/03/08/wo-de-bei-wei-yu-wei-da/"/>
-    <id>https://zkzkeep.github.io/2023/03/08/wo-de-bei-wei-yu-wei-da/</id>
+    <link href="https://leesy.top/2023/03/08/wo-de-bei-wei-yu-wei-da/"/>
+    <id>https://leesy.top/2023/03/08/wo-de-bei-wei-yu-wei-da/</id>
     <published>2023-03-08T06:00:41.000Z</published>
     <updated>2023-03-08T06:04:19.876Z</updated>
     
@@ -141,21 +141,21 @@
     
     
     
-    <category term="思绪感悟" scheme="https://zkzkeep.github.io/categories/%E6%80%9D%E7%BB%AA%E6%84%9F%E6%82%9F/"/>
+    <category term="思绪感悟" scheme="https://leesy.top/categories/%E6%80%9D%E7%BB%AA%E6%84%9F%E6%82%9F/"/>
     
     
-    <category term="爱情" scheme="https://zkzkeep.github.io/tags/%E7%88%B1%E6%83%85/"/>
+    <category term="爱情" scheme="https://leesy.top/tags/%E7%88%B1%E6%83%85/"/>
     
-    <category term="太极" scheme="https://zkzkeep.github.io/tags/%E5%A4%AA%E6%9E%81/"/>
+    <category term="太极" scheme="https://leesy.top/tags/%E5%A4%AA%E6%9E%81/"/>
     
-    <category term="生死" scheme="https://zkzkeep.github.io/tags/%E7%94%9F%E6%AD%BB/"/>
+    <category term="生死" scheme="https://leesy.top/tags/%E7%94%9F%E6%AD%BB/"/>
     
   </entry>
   
   <entry>
     <title>《约翰克里斯朵夫》</title>
-    <link href="https://zkzkeep.github.io/2023/03/08/yue-han-ke-li-si-duo-fu/"/>
-    <id>https://zkzkeep.github.io/2023/03/08/yue-han-ke-li-si-duo-fu/</id>
+    <link href="https://leesy.top/2023/03/08/yue-han-ke-li-si-duo-fu/"/>
+    <id>https://leesy.top/2023/03/08/yue-han-ke-li-si-duo-fu/</id>
     <published>2023-03-08T05:02:27.000Z</published>
     <updated>2023-03-10T13:46:08.451Z</updated>
     
@@ -170,21 +170,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="约翰克里斯朵夫" scheme="https://zkzkeep.github.io/tags/%E7%BA%A6%E7%BF%B0%E5%85%8B%E9%87%8C%E6%96%AF%E6%9C%B5%E5%A4%AB/"/>
+    <category term="约翰克里斯朵夫" scheme="https://leesy.top/tags/%E7%BA%A6%E7%BF%B0%E5%85%8B%E9%87%8C%E6%96%AF%E6%9C%B5%E5%A4%AB/"/>
     
-    <category term="法国文学" scheme="https://zkzkeep.github.io/tags/%E6%B3%95%E5%9B%BD%E6%96%87%E5%AD%A6/"/>
+    <category term="法国文学" scheme="https://leesy.top/tags/%E6%B3%95%E5%9B%BD%E6%96%87%E5%AD%A6/"/>
     
-    <category term="罗曼罗兰" scheme="https://zkzkeep.github.io/tags/%E7%BD%97%E6%9B%BC%E7%BD%97%E5%85%B0/"/>
+    <category term="罗曼罗兰" scheme="https://leesy.top/tags/%E7%BD%97%E6%9B%BC%E7%BD%97%E5%85%B0/"/>
     
   </entry>
   
   <entry>
     <title>《卡拉马佐夫兄弟》</title>
-    <link href="https://zkzkeep.github.io/2020/08/23/qia-la-ma-zuo-fu-xiong-di/"/>
-    <id>https://zkzkeep.github.io/2020/08/23/qia-la-ma-zuo-fu-xiong-di/</id>
+    <link href="https://leesy.top/2020/08/23/qia-la-ma-zuo-fu-xiong-di/"/>
+    <id>https://leesy.top/2020/08/23/qia-la-ma-zuo-fu-xiong-di/</id>
     <published>2020-08-23T04:56:23.000Z</published>
     <updated>2023-03-08T05:22:20.877Z</updated>
     
@@ -199,21 +199,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="卡拉马佐夫兄弟" scheme="https://zkzkeep.github.io/tags/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/"/>
+    <category term="卡拉马佐夫兄弟" scheme="https://leesy.top/tags/%E5%8D%A1%E6%8B%89%E9%A9%AC%E4%BD%90%E5%A4%AB%E5%85%84%E5%BC%9F/"/>
     
-    <category term="陀思妥耶夫斯基" scheme="https://zkzkeep.github.io/tags/%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/"/>
+    <category term="陀思妥耶夫斯基" scheme="https://leesy.top/tags/%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/"/>
     
   </entry>
   
   <entry>
     <title>《一句顶一万句》</title>
-    <link href="https://zkzkeep.github.io/2018/05/07/yi-ju-ding-yi-wan-ju/"/>
-    <id>https://zkzkeep.github.io/2018/05/07/yi-ju-ding-yi-wan-ju/</id>
+    <link href="https://leesy.top/2018/05/07/yi-ju-ding-yi-wan-ju/"/>
+    <id>https://leesy.top/2018/05/07/yi-ju-ding-yi-wan-ju/</id>
     <published>2018-05-07T04:59:30.000Z</published>
     <updated>2023-03-09T11:01:57.438Z</updated>
     
@@ -228,21 +228,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="刘震云" scheme="https://zkzkeep.github.io/tags/%E5%88%98%E9%9C%87%E4%BA%91/"/>
+    <category term="刘震云" scheme="https://leesy.top/tags/%E5%88%98%E9%9C%87%E4%BA%91/"/>
     
-    <category term="百年孤独" scheme="https://zkzkeep.github.io/tags/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/"/>
+    <category term="百年孤独" scheme="https://leesy.top/tags/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC/"/>
     
-    <category term="精神内核" scheme="https://zkzkeep.github.io/tags/%E7%B2%BE%E7%A5%9E%E5%86%85%E6%A0%B8/"/>
+    <category term="精神内核" scheme="https://leesy.top/tags/%E7%B2%BE%E7%A5%9E%E5%86%85%E6%A0%B8/"/>
     
   </entry>
   
   <entry>
     <title>《人生的枷锁》</title>
-    <link href="https://zkzkeep.github.io/2017/12/07/ren-sheng-de-jia-suo/"/>
-    <id>https://zkzkeep.github.io/2017/12/07/ren-sheng-de-jia-suo/</id>
+    <link href="https://leesy.top/2017/12/07/ren-sheng-de-jia-suo/"/>
+    <id>https://leesy.top/2017/12/07/ren-sheng-de-jia-suo/</id>
     <published>2017-12-07T13:45:38.000Z</published>
     <updated>2023-03-08T05:31:52.045Z</updated>
     
@@ -257,21 +257,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="毛姆" scheme="https://zkzkeep.github.io/tags/%E6%AF%9B%E5%A7%86/"/>
+    <category term="毛姆" scheme="https://leesy.top/tags/%E6%AF%9B%E5%A7%86/"/>
     
-    <category term="人生的枷锁" scheme="https://zkzkeep.github.io/tags/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%9E%B7%E9%94%81/"/>
+    <category term="人生的枷锁" scheme="https://leesy.top/tags/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%9E%B7%E9%94%81/"/>
     
-    <category term="人生的意义" scheme="https://zkzkeep.github.io/tags/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/"/>
+    <category term="人生的意义" scheme="https://leesy.top/tags/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89/"/>
     
   </entry>
   
   <entry>
     <title>湖北电网首个固定式直流融冰工程在恩施投产</title>
-    <link href="https://zkzkeep.github.io/2017/12/05/hu-bei-dian-wang-shou-ge-gu-ding-shi-zhi-liu-rong-bing-gong-cheng-zai-en-shi-tou-chan/"/>
-    <id>https://zkzkeep.github.io/2017/12/05/hu-bei-dian-wang-shou-ge-gu-ding-shi-zhi-liu-rong-bing-gong-cheng-zai-en-shi-tou-chan/</id>
+    <link href="https://leesy.top/2017/12/05/hu-bei-dian-wang-shou-ge-gu-ding-shi-zhi-liu-rong-bing-gong-cheng-zai-en-shi-tou-chan/"/>
+    <id>https://leesy.top/2017/12/05/hu-bei-dian-wang-shou-ge-gu-ding-shi-zhi-liu-rong-bing-gong-cheng-zai-en-shi-tou-chan/</id>
     <published>2017-12-05T05:34:00.000Z</published>
     <updated>2023-03-08T00:40:54.791Z</updated>
     
@@ -287,21 +287,21 @@
     
     
     
-    <category term="新闻稿件" scheme="https://zkzkeep.github.io/categories/%E6%96%B0%E9%97%BB%E7%A8%BF%E4%BB%B6/"/>
+    <category term="新闻稿件" scheme="https://leesy.top/categories/%E6%96%B0%E9%97%BB%E7%A8%BF%E4%BB%B6/"/>
     
     
-    <category term="新闻稿件" scheme="https://zkzkeep.github.io/tags/%E6%96%B0%E9%97%BB%E7%A8%BF%E4%BB%B6/"/>
+    <category term="新闻稿件" scheme="https://leesy.top/tags/%E6%96%B0%E9%97%BB%E7%A8%BF%E4%BB%B6/"/>
     
-    <category term="直流融冰" scheme="https://zkzkeep.github.io/tags/%E7%9B%B4%E6%B5%81%E8%9E%8D%E5%86%B0/"/>
+    <category term="直流融冰" scheme="https://leesy.top/tags/%E7%9B%B4%E6%B5%81%E8%9E%8D%E5%86%B0/"/>
     
-    <category term="电网运行" scheme="https://zkzkeep.github.io/tags/%E7%94%B5%E7%BD%91%E8%BF%90%E8%A1%8C/"/>
+    <category term="电网运行" scheme="https://leesy.top/tags/%E7%94%B5%E7%BD%91%E8%BF%90%E8%A1%8C/"/>
     
   </entry>
   
   <entry>
     <title>《人间失格》</title>
-    <link href="https://zkzkeep.github.io/2017/06/12/ren-jian-shi-ge/"/>
-    <id>https://zkzkeep.github.io/2017/06/12/ren-jian-shi-ge/</id>
+    <link href="https://leesy.top/2017/06/12/ren-jian-shi-ge/"/>
+    <id>https://leesy.top/2017/06/12/ren-jian-shi-ge/</id>
     <published>2017-06-12T10:47:43.000Z</published>
     <updated>2023-03-11T01:46:43.341Z</updated>
     
@@ -316,21 +316,21 @@
     
     
     
-    <category term="读书笔记" scheme="https://zkzkeep.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://leesy.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="夜藏" scheme="https://zkzkeep.github.io/tags/%E5%A4%9C%E8%97%8F/"/>
+    <category term="夜藏" scheme="https://leesy.top/tags/%E5%A4%9C%E8%97%8F/"/>
     
-    <category term="人间失格" scheme="https://zkzkeep.github.io/tags/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
+    <category term="人间失格" scheme="https://leesy.top/tags/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
     
-    <category term="太宰治" scheme="https://zkzkeep.github.io/tags/%E5%A4%AA%E5%AE%B0%E6%B2%BB/"/>
+    <category term="太宰治" scheme="https://leesy.top/tags/%E5%A4%AA%E5%AE%B0%E6%B2%BB/"/>
     
   </entry>
   
   <entry>
     <title>劳动的意义</title>
-    <link href="https://zkzkeep.github.io/2017/05/22/lao-dong-de-yi-yi/"/>
-    <id>https://zkzkeep.github.io/2017/05/22/lao-dong-de-yi-yi/</id>
+    <link href="https://leesy.top/2017/05/22/lao-dong-de-yi-yi/"/>
+    <id>https://leesy.top/2017/05/22/lao-dong-de-yi-yi/</id>
     <published>2017-05-22T12:46:06.000Z</published>
     <updated>2023-03-08T06:20:20.999Z</updated>
     
@@ -345,14 +345,14 @@
     
     
     
-    <category term="思绪感悟" scheme="https://zkzkeep.github.io/categories/%E6%80%9D%E7%BB%AA%E6%84%9F%E6%82%9F/"/>
+    <category term="思绪感悟" scheme="https://leesy.top/categories/%E6%80%9D%E7%BB%AA%E6%84%9F%E6%82%9F/"/>
     
     
-    <category term="孙少平" scheme="https://zkzkeep.github.io/tags/%E5%AD%99%E5%B0%91%E5%B9%B3/"/>
+    <category term="孙少平" scheme="https://leesy.top/tags/%E5%AD%99%E5%B0%91%E5%B9%B3/"/>
     
-    <category term="郁闷" scheme="https://zkzkeep.github.io/tags/%E9%83%81%E9%97%B7/"/>
+    <category term="郁闷" scheme="https://leesy.top/tags/%E9%83%81%E9%97%B7/"/>
     
-    <category term="回归本心" scheme="https://zkzkeep.github.io/tags/%E5%9B%9E%E5%BD%92%E6%9C%AC%E5%BF%83/"/>
+    <category term="回归本心" scheme="https://leesy.top/tags/%E5%9B%9E%E5%BD%92%E6%9C%AC%E5%BF%83/"/>
     
   </entry>
   
